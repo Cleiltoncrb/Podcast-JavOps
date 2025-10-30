@@ -25,7 +25,7 @@ Tema central: Monólogo sobre o encontro entre o desenvolvimento Java e as prát
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Cleiltoncrb/PODCAST-JAVOPS/main/assets/JavOps.png" 
+    src="https://github.com/Cleiltoncrb/Podcast-JavOps/blob/main/assets/JavOps.png" 
     width="300" 
     alt="Capa do Podcast JavOps"
   />
@@ -45,7 +45,7 @@ Tema central: Monólogo sobre o encontro entre o desenvolvimento Java e as prát
 
 > ℹ️ **NOTA:**
 >
-> - Crie um repositório no GitHub com os prompts que você utilizou na criação do projeto.
+> - Criar um repositório no GitHub com os prompts que você utilizou na criação do projeto.
 > - Salve o áudio do podcast editado dentro do repositório.
 > - Envie o link do repositório.
 
@@ -74,7 +74,7 @@ Tema central: Monólogo sobre o encontro entre o desenvolvimento Java e as prát
   <img 
     align="left" 
     width="80" 
-    src="https://raw.githubusercontent.com/Cleiltoncrb/PODCAST-JAVOPS/main/assets/JavOps.png" 
+    src="https://avatars.githubusercontent.com/u/123566534?s=400&u=ae34068fe6d0053a391ff2acdd0546580f1a7ef5&v=4" 
     alt="Avatar do podcast JavOps"
   />
   <p>
