@@ -25,7 +25,7 @@ Tema central: Monólogo sobre o encontro entre o desenvolvimento Java e as prát
 
 <p align="center">
   <img 
-    src="https://github.com/Cleiltoncrb/Podcast-JavOps/blob/main/assets/JavOps.png" 
+    src="/assets/JavOps.png" 
     width="300" 
     alt="Capa do Podcast JavOps"
   />
