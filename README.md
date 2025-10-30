@@ -60,7 +60,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
       align=left 
       margin=10 
       width=80 
-      src="./assets/JavOps.png"
+      src="https://avatars.githubusercontent.com/u/123566534?s=400&u=ae34068fe6d0053a391ff2acdd0546580f1a7ef5&v=4"
     />
     <p>
     <a 
